@@ -9,19 +9,15 @@
 ![KakaoTalk_20240831_143023900](https://github.com/user-attachments/assets/73697a30-4ccb-44cb-88d7-4685849e3376)
 
 ## 📋주요 기능
-
-## ⛓️시스템 구조
-
-### 시스템 구조도
+사진 추가
 
 ## 📂자료 모음
 
 ## 🪡사용한 기술
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
-- ### LANGUAGE
 
-    <img src="https://img.shields.io/badge/javascript-3178C6?style=for-the-badge&logo=javascript&logoColor=white">
-
-- ### Tech
 
 

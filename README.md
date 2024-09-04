@@ -9,9 +9,13 @@
 ![KakaoTalk_20240831_143023900](https://github.com/user-attachments/assets/73697a30-4ccb-44cb-88d7-4685849e3376)
 
 ## 📋주요 기능
-사진 추가
+![로그인 화면](https://github.com/user-attachments/assets/f67d386f-86d5-4b31-992b-7308f374ce52)
+
+![메인화면](https://github.com/user-attachments/assets/8bd39d80-b3bd-47b5-9ed3-08e9cc279a0b)
+
 
 ## 📂자료 모음
+
 
 ## 🪡사용한 기술
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
